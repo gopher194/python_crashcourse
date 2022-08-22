@@ -1,3 +1,4 @@
-# Python - Crash course learning
-================================
+Python - Crash course learning
+==============================
+
 Learning Python in Crash Course mode
